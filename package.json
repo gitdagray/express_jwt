@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server",
-    "dev": "nodemon server"
+    "dev": "nodemon server",
+    "dev1": "nodemon server"
   },
   "author": "Dave Gray",
   "license": "ISC",
@@ -23,3 +24,4 @@
     "nodemon": "^2.0.12"
   }
 }
+
